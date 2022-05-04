@@ -1,0 +1,14 @@
+WebDevelopment Day 2
+
+How to Upload website to github?
+
+github.com (Microsoft)
+bitbucket.com
+gitlabs.com
+
+Dashboad Page/Welcome
+
+
+https://github.com/new
+
+website = project = repository = repo
